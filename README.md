@@ -10,7 +10,7 @@ This demo shows how to use the [WebVR](http://mozvr.github.io/webvr-spec/webvr.h
 * A [Google Tango](https://www.google.com/atap/project-tango/) device
 * [This Chromium build](https://drive.google.com/a/archilogic.com/file/d/0BzudLt22BqGRMUJldFE5UXF3Yjg/view) which supports WebVR on a Tango device
 * Open Chromium on your Tango device, go to "chrome://flags" and search for "WebVR", make sure it is enabled
-* Open [this link](http://archilogic-ch.github.io/tango-web-demo-cubes) on your Tango using that special Chromium build.
+* Open [this link](http://archilogic-com.github.io/tango-web-demo-cubes) on your Tango using that special Chromium build.
 
 ## License
 
