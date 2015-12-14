@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Tango Web Demo: Cubes</title>
+  <script src="//cdnjs.cloudflare.com/ajax/libs/three.js/r73/three.min.js"></script>
+  <style>
+    html, body {
+      height: 100%;
+      margin:    0;
+      padding:   0;
+    }
+
+    canvas {
+      position: absolute;
+      top:  0;
+      left: 0;
+
+      width:  100%;
+      height: 100%;
+    }
+
+    #instructions {
+      width: 50%;
+      margin-left: 25%;
+      margin-top: 1em;
+      border: 1px solid gray;
+      border-radius: 0.5em;
+      padding: 1em;
+      text-align: center;
+    }
+
+    .hidden { display: none; }
+  </style>
+</head>
+<body>
+  <div id="instructions">
+    <h1>Instructions:</h1>
+    <p>Please hold your Tango device in landscape mode</p>
+    <button id="start">Click me to start!</button>
+  </div>
+  <button id="reset">Reset</button>
+  <script src="main.js"></script>
+</body>
+</html>
