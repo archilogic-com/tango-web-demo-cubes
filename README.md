@@ -5,6 +5,8 @@ Simple Demo for WebVR on Google Tango
 
 This demo shows how to use the [WebVR](http://mozvr.github.io/webvr-spec/webvr.html) APIs (specifically the [PositionSensorVRDevice](http://mozvr.github.io/webvr-spec/webvr.html#positionsensorvrdevice)) to move around in a virtual 3D space.
 
+[Here's a demo video](https://www.youtube.com/watch?v=UHj1RLYb_4U)
+
 ## Prerequisites
 
 * A [Google Tango](https://www.google.com/atap/project-tango/) device
